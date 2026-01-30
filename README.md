@@ -1,4 +1,4 @@
-# Profil Mahasiswa – Pure HTML Portfolio
+# Profil Mahasiswa
 
 ## Deskripsi Umum Website
 
@@ -39,5 +39,3 @@ Pemilihan layout berbasis tabel dilakukan karena menyesuaikan dengan ketentuan p
 ## Kesimpulan
 
 Website Profil Mahasiswa ini menunjukkan bahwa dengan pemahaman dasar HTML yang baik, sebuah website yang informatif, terstruktur, dan layak secara visual tetap dapat dibangun tanpa bantuan teknologi tambahan. Proyek ini berfungsi tidak hanya sebagai portofolio digital, tetapi juga sebagai sarana pembelajaran untuk memahami konsep fundamental pengembangan web.
-
-Pendekatan ini sangat sesuai untuk keperluan akademik, latihan dasar, serta sebagai fondasi sebelum melanjutkan ke pengembangan web modern menggunakan CSS dan JavaScript.
